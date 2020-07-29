@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MaskChecker</string>
+    <string name="check_your_mask">Check your mask</string>
+    <string name="start">Start</string>
 </resources>
