@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MaskChecker</string>
+    <string name="check_your_mask">Comprueba tu mascarilla</string>
+    <string name="start">Comenzar</string>
+</resources>
