@@ -1,6 +1,18 @@
 <resources>
     <string name="app_name">MaskCheck</string>
-    <string name="check_your_mask">Check your mask</string>
+    <string name="check_your_mask">Check your FFP2 mask</string>
     <string name="start">Start</string>
     <string name="references">References</string>
+    <string name="title_activity_check_list">CheckListActivity</string>
+    <string name="markings">Check that your mask is marked with ALL the following elements:</string>
+    <string name="next">Next</string>
+    <string name="brand">Brand or model</string>
+    <string name="celogo">CE Logo followed by 4 digits</string>
+    <string name="ffp2NR">FFP2 NR</string>
+    <string name="en1492001">EN 149:2001</string>
+    <string name="notFFP2">Your mask is not a FFP2 type with high certainty</string>
+    <string name="check_other_standards">Check if your mask or its case includes ANY of the following elements:</string>
+    <string name="none_above">None of the above</string>
+    <string name="isFFP2">Your mask is a FFP2 type with high certainty</string>
+    <string name="exit">Exit</string>
 </resources>

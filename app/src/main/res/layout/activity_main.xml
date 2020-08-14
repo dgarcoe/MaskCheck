@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorBackground"
+    android:background="@color/colorWhite"
     tools:context="com.github.dgarcoe.maskchecker.MainActivity">
 
     <TextView
@@ -38,12 +38,12 @@
         app:srcCompat="@mipmap/mask_foreground" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/startButton"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="30dp"
         android:background="@drawable/btn_rounded"
         android:text="@string/start"
         android:textColor="@color/colorWhite"
@@ -54,13 +54,13 @@
         app:layout_constraintWidth_percent="0.5" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/referencesButton"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="0dp"
         android:background="@drawable/btn_rounded"
         android:text="@string/references"
         android:textColor="@color/colorWhite"
@@ -69,8 +69,8 @@
         app:layout_constraintHeight_percent="0.07"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button"
-        app:layout_constraintVertical_bias="0.586"
+        app:layout_constraintTop_toBottomOf="@+id/startButton"
+        app:layout_constraintVertical_bias="0.2"
         app:layout_constraintWidth_percent="0.5" />
 
 </android.support.constraint.ConstraintLayout>

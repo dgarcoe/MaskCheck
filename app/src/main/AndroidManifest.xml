@@ -16,6 +16,21 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".CheckListActivity"
+            android:label="@string/title_activity_check_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CheckList2Activity"
+            android:label="@string/title_activity_check_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NotFFP2Activity"
+            android:label="@string/title_activity_check_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".IsFFP2Activity"
+            android:label="@string/title_activity_check_list"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
