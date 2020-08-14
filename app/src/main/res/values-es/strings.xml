@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MaskCheck</string>
-    <string name="check_your_mask">Comprueba tu mascarilla</string>
+    <string name="check_your_mask">Comprueba tu mascarilla FFP2</string>
     <string name="start">Comenzar</string>
     <string name="references">Referencias</string>
+    <string name="title_activity_check_list">CheckListActivity</string>
+    <string name="markings">Comprueba que tu mascarilla está marcada con TODOS estos componentes:</string>
+    <string name="next">Siguiente</string>
+    <string name="brand">Marca o modelo</string>
+    <string name="celogo">Logo CE seguido de 4 dígitos</string>
+    <string name="ffp2NR">FFP2 NR</string>
+    <string name="en1492001">EN 149:2001</string>
+    <string name="notFFP2">Tu mascarilla no es FFP2 con una probabilidad elevada</string>
+    <string name="check_other_standards">Comprueba si tu mascarilla o su embalaje incluyen ALGUNO de los siguientes elementos:</string>
+    <string name="none_above">Ninguno de los anteriores</string>
+    <string name="isFFP2">Tu mascarilla es FFP2 con una probabilidad elevada</string>
+    <string name="exit">Salir</string>
 </resources>
