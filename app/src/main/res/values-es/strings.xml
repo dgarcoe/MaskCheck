@@ -16,4 +16,5 @@
     <string name="none_above">Ninguno de los anteriores</string>
     <string name="isFFP2">Tu mascarilla es FFP2 con una probabilidad elevada</string>
     <string name="exit">Salir</string>
+    <string name="explanation">Por favor, observa tu mascarilla y su envoltorio. En las siguientes pantallas se solicitará cubrir una serie de puntos acerca de diversos marcados que se pueden encontrar impresos en ambos. Sigue los siguientes pasos para verificar que tu mascarilla es una FFP2 válida.</string>
 </resources>

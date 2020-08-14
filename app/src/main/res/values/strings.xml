@@ -15,4 +15,5 @@
     <string name="none_above">None of the above</string>
     <string name="isFFP2">Your mask is a FFP2 type with high certainty</string>
     <string name="exit">Exit</string>
+    <string name="explanation">Please observe your mask and its case. In the following screens you will be prompted to fill several checkboxes depending on what you see printed on your mask. Follow the steps to check that your mask is a valid FFP2 type.</string>
 </resources>
