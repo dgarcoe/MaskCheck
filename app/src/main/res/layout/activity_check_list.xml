@@ -16,7 +16,7 @@
         android:layout_marginRight="20dp"
         android:layout_marginLeft="20dp"
         android:text="@string/markings"
-        android:textSize="30sp"
+        android:textSize="25sp"
         android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

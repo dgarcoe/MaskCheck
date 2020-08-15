@@ -16,7 +16,7 @@
         android:layout_marginRight="20dp"
         android:layout_marginLeft="20dp"
         android:text="@string/isFFP2"
-        android:textSize="30sp"
+        android:textSize="25sp"
         android:textAlignment="center"
         android:textColor="@color/colorGreen"
         app:layout_constraintEnd_toEndOf="parent"

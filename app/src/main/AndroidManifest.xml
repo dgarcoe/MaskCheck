@@ -33,8 +33,10 @@
         <activity
             android:name=".FirstCheckActivity"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".FalseFFP2Activity"
+        <activity
+            android:name=".FalseFFP2Activity"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ReferencesActivity"></activity>
     </application>
 
 </manifest>
