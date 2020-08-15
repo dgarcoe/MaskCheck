@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MaskChecker.iml" filepath="$PROJECT_DIR$/MaskChecker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaskChecker.iml" filepath="$PROJECT_DIR$/MaskChecker.iml" group="MaskChecker" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MaskChecker/app" />
     </modules>
   </component>
 </project>

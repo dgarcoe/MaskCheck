@@ -1,10 +1,10 @@
 package com.github.dgarcoe.maskchecker
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.CheckBox
+import androidx.appcompat.app.AppCompatActivity
 
 class CheckListActivity : AppCompatActivity() {
 
