@@ -4,6 +4,8 @@ import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import android.widget.TextView
+import kotlin.system.exitProcess
 
 class NotFFP2Activity : AppCompatActivity() {
 
@@ -11,10 +13,14 @@ class NotFFP2Activity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_not_ffp2)
 
-        val nextButton = findViewById<Button>(R.id.nextButton3)
-        nextButton.setOnClickListener {
-            val intent = Intent(this, CheckOtherStandardsActivity::class.java)
-            startActivity(intent)
+        val textViewOtherStandard = findViewById<TextView>(R.id.textViewOtherStandard)
+        textViewOtherStandard.setText(intent.getStringExtra("otherStandard"))
+
+        val exitButton = findViewById<Button>(R.id.exitButtonNotFFP2)
+        exitButton.setOnClickListener {
+            this@NotFFP2Activity.finish()
+            finishAffinity()
+            exitProcess(0)
         }
     }
 }

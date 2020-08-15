@@ -31,9 +31,6 @@
             android:name=".IsFFP2Activity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".CheckOtherStandardsActivity"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
             android:name=".FirstCheckActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".FalseFFP2Activity"
