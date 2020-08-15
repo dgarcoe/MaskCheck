@@ -14,17 +14,38 @@ class CheckListActivity : AppCompatActivity() {
 
         val nextButton = findViewById<Button>(R.id.nextButton)
         nextButton.setOnClickListener {
-            val checkBoxBrandValue = findViewById<CheckBox>(R.id.brandCheckBox).isChecked
-            val checkBoxCELogoValue = findViewById<CheckBox>(R.id.ceLogoCheckBox).isChecked
-            val checkBoxFFP2Value = findViewById<CheckBox>(R.id.FFP2CheckBox).isChecked
-            val checkBoxENValue = findViewById<CheckBox>(R.id.ENCheckBox).isChecked
+
+            var counter = 0
+
+            val checkBoxBrandValue = findViewById<CheckBox>(R.id.brandCheckBox)
+
+            if (checkBoxBrandValue.isChecked) {
+                counter++
+            }
+            val checkBoxCELogoValue = findViewById<CheckBox>(R.id.ceLogoCheckBox)
+
+            if (checkBoxCELogoValue.isChecked) {
+                counter++
+            }
+
+            val checkBoxFFP2Value = findViewById<CheckBox>(R.id.FFP2CheckBox)
+
+            if (checkBoxFFP2Value.isChecked) {
+                counter++
+            }
+
+            val checkBoxENValue = findViewById<CheckBox>(R.id.ENCheckBox)
+
+            if (checkBoxENValue.isChecked) {
+                counter++
+            }
 
             var intent: Intent
 
-            if (checkBoxBrandValue && checkBoxCELogoValue && checkBoxFFP2Value && checkBoxENValue) {
+            if (counter==4) {
                 intent = Intent(this, CheckList2Activity::class.java)
             } else {
-                intent = Intent(this, NotFFP2Activity::class.java)
+                intent = Intent(this, FalseFFP2Activity::class.java)
             }
 
             startActivity(intent)

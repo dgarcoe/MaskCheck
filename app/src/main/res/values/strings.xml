@@ -4,7 +4,7 @@
     <string name="start">Start</string>
     <string name="references">References</string>
     <string name="title_activity_check_list">CheckListActivity</string>
-    <string name="markings">Check that your mask is marked with ALL the following elements:</string>
+    <string name="markings">Check if your mask is marked with ALL the following elements:</string>
     <string name="next">Next</string>
     <string name="brand">Brand or model</string>
     <string name="celogo">CE Logo followed by 4 digits</string>

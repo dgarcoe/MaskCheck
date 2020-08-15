@@ -5,7 +5,7 @@
     <string name="start">Comenzar</string>
     <string name="references">Referencias</string>
     <string name="title_activity_check_list">CheckListActivity</string>
-    <string name="markings">Comprueba que tu mascarilla está marcada con TODOS estos componentes:</string>
+    <string name="markings">Comprueba si tu mascarilla está marcada con TODOS estos componentes:</string>
     <string name="next">Siguiente</string>
     <string name="brand">Marca o modelo</string>
     <string name="celogo">Logo CE seguido de 4 dígitos</string>
