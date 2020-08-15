@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         val startButton = findViewById<Button>(R.id.startButton)
         startButton.setOnClickListener{
-            val intent = Intent(this, CheckListActivity::class.java)
+            val intent = Intent(this, FirstCheckActivity::class.java)
             startActivity(intent)
         }
     }

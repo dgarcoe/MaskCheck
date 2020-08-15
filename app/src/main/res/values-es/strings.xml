@@ -11,10 +11,17 @@
     <string name="celogo">Logo CE seguido de 4 dígitos</string>
     <string name="ffp2NR">FFP2 NR</string>
     <string name="en1492001">EN 149:2001</string>
-    <string name="notFFP2">Tu mascarilla no es FFP2 con una probabilidad elevada</string>
+    <string name="notFFP2">Tu mascarilla no es FFP2 con una probabilidad elevada.</string>
     <string name="check_other_standards">Comprueba si tu mascarilla o su embalaje incluyen ALGUNO de los siguientes elementos:</string>
     <string name="none_above">Ninguno de los anteriores</string>
     <string name="isFFP2">Tu mascarilla es FFP2 con una probabilidad elevada</string>
     <string name="exit">Salir</string>
     <string name="explanation">Por favor, observa tu mascarilla y su envoltorio. En las siguientes pantallas se solicitará cubrir una serie de puntos acerca de diversos marcados que se pueden encontrar impresos en ambos. Sigue los siguientes pasos para verificar que tu mascarilla es una FFP2 válida.</string>
+    <string name="other_standard">pero podría ser otro estándar no homologado por la UE. Vamos a comprobarlo.</string>
+    <string name="non_marked">La mascarilla no tiene ningún tipo de marcado</string>
+    <string name="is_marked">¿La mascarilla tiene algún tipo de marcado? (marca, logo CE, modelo....)</string>
+    <string name="no">No</string>
+    <string name="yes">Sí</string>
+    <string name="check_one_option">Por favor cubre sí o no</string>
+    <string name="falseFFP2">Tu mascarilla es FALSA con una probabilidad elevada. Por favor, deséchala y reclama una buena.</string>
 </resources>

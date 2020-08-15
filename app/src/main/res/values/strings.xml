@@ -10,10 +10,17 @@
     <string name="celogo">CE Logo followed by 4 digits</string>
     <string name="ffp2NR">FFP2 NR</string>
     <string name="en1492001">EN 149:2001</string>
-    <string name="notFFP2">Your mask is not a FFP2 type with high certainty</string>
+    <string name="notFFP2">Your mask is not a FFP2 type with high certainty.</string>
     <string name="check_other_standards">Check if your mask or its case includes ANY of the following elements:</string>
     <string name="none_above">None of the above</string>
-    <string name="isFFP2">Your mask is a FFP2 type with high certainty</string>
+    <string name="isFFP2">Your mask is a FFP2 type with high certainty.</string>
     <string name="exit">Exit</string>
     <string name="explanation">Please observe your mask and its case. In the following screens you will be prompted to fill several checkboxes depending on what you see printed on your mask. Follow the steps to check that your mask is a valid FFP2 type.</string>
+    <string name="other_standard">but it may be another standard not approved by the EU. Let\'s check it.</string>
+    <string name="non_marked">The mask doesn\'t have any markings</string>
+    <string name="is_marked">Does the mask have any kind of markings on it or its case? (brand, CE logo, etc.)</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="check_one_option">Please fill yes or no</string>
+    <string name="falseFFP2">Your mask is FALSE with a high certainty. Please discard it and reclaim a valid one.</string>
 </resources>
