@@ -16,7 +16,7 @@
     <string name="none_above">Ninguno de los anteriores</string>
     <string name="isFFP2">Tu mascarilla es FFP2 con una probabilidad elevada</string>
     <string name="exit">Salir</string>
-    <string name="explanation">Por favor, observa tu mascarilla y su envoltorio. En las siguientes pantallas se solicitará cubrir una serie de puntos acerca de diversos marcados que se pueden encontrar impresos en ambos. Sigue los siguientes pasos para verificar que tu mascarilla es una FFP2 válida.</string>
+    <string name="explanation">Por favor, observa tu mascarilla y su envoltorio. En las siguientes pantallas se solicitará cubrir una serie de puntos acerca de diversos marcados que se pueden encontrar impresos en ambos. Sigue los siguientes pasos para verificar que tu mascarilla es una FFP2 válida. También puedes usar la función cámara, con la que a través de una foto de tu mascarilla se comprobará la existencia de estos campos automáticamente.</string>
     <string name="other_standard">pero podría ser otro estándar no homologado por la UE.</string>
     <string name="non_marked">La mascarilla no tiene ningún tipo de marcado</string>
     <string name="is_marked">¿La mascarilla tiene algún tipo de marcado? (marca, logo CE, modelo....)</string>
@@ -26,4 +26,7 @@
     <string name="falseFFP2">Tu mascarilla es FALSA con una probabilidad elevada. Por favor, deséchala y reclama una buena.</string>
     <string name="g2626">Tu mascarilla puede ser del estándar chino KN95, no homologado por la UE. Verifica que contiene el marcado \"G2626:2006 KN95\" o \"G2626:2019\"</string>
     <string name="niosh">Tu mascarilla puede ser del estándar NIOSH N95. Verifica que contiene TODOS los siguientes campos: fabricante, modelo, logo NIOSH y N95 o n99. Puedes comprobar que es válida en www.cdc.gov.</string>
+    <string name="camera">Cámara</string>
+    <string name="validate">Validar</string>
+    <string name="other_standard_or_false">Tu mascarilla puede ser de un estándar no UE o falsa. Por favor, verifícala con el chequeo manualmente.</string>
 </resources>

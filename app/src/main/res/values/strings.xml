@@ -15,7 +15,7 @@
     <string name="none_above">None of the above</string>
     <string name="isFFP2">Your mask is a FFP2 type with high certainty.</string>
     <string name="exit">Exit</string>
-    <string name="explanation">Please observe your mask and its case. In the following screens you will be prompted to fill several checkboxes depending on what you see printed on your mask. Follow the steps to check that your mask is a valid FFP2 type.</string>
+    <string name="explanation">Please observe your mask and its case. In the following screens you will be prompted to fill several checkboxes depending on what you see printed on your mask. Follow the steps to check that your mask is a valid FFP2 type. You can also use the automatic function that will check all the fields for you by taking a photo of your mask.</string>
     <string name="other_standard">"but it may be another standard not approved by the EU. "</string>
     <string name="non_marked">The mask doesn\'t have any markings</string>
     <string name="is_marked">Does the mask have any kind of markings on it or its case? (brand, CE logo, etc.)</string>
@@ -25,4 +25,7 @@
     <string name="falseFFP2">Your mask is FALSE with a high certainty. Please discard it and reclaim a valid one.</string>
     <string name="g2626">Your mask is from the KN95 chinese standard which has not been approved by the EU. Your mask or case should have the marking \"G2626:2006 KN95\" or \"G2626:2019\"</string>
     <string name="niosh">Your mask may be from the standard NIOSH N95. Check that the mask contains ALL of the following: manufacturer, model, NIOSH logo and N95 or n99. You can check if it\'s valid at www.cdc.gov.</string>
+    <string name="camera">Camera</string>
+    <string name="validate">Validate</string>
+    <string name="other_standard_or_false">Your mask may be from a non UE standard or false. Please verify it manually with the checklist.</string>
 </resources>
